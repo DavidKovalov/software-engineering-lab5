@@ -13,3 +13,5 @@
 
 ```bash
 python src/main.py
+## Lab 8
+Quality analysis and refactoring completed.
